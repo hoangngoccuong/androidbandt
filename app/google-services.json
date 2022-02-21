@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "179472845350",
+    "firebase_url": "https://appbanhang-ed4c0-default-rtdb.firebaseio.com",
+    "project_id": "appbanhang-ed4c0",
+    "storage_bucket": "appbanhang-ed4c0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:179472845350:android:a25f3c7dcda2bc75dff4e7",
+        "android_client_info": {
+          "package_name": "com.example.appbanhang"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "179472845350-opjj18i1c2b65to57bitco72u1825fko.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDt82gwYFH139Qnn3wc2sPlKHStgwEPVLk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "179472845350-opjj18i1c2b65to57bitco72u1825fko.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:179472845350:android:066f212df8b2d63edff4e7",
+        "android_client_info": {
+          "package_name": "com.example.doan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "179472845350-opjj18i1c2b65to57bitco72u1825fko.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDt82gwYFH139Qnn3wc2sPlKHStgwEPVLk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "179472845350-opjj18i1c2b65to57bitco72u1825fko.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

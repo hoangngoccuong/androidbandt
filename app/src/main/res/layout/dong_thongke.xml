@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="vertical"
+xmlns:app="http://schemas.android.com/apk/res-auto">
+
+<androidx.cardview.widget.CardView
+    app:cardCornerRadius="8dp"
+    android:layout_width="match_parent"
+    app:cardBackgroundColor="#ffffff"
+    android:layout_height="match_parent">
+    <LinearLayout
+        android:gravity="center"
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        <LinearLayout
+            android:orientation="horizontal"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+            <TextView
+                android:textColor="#9C27B0"
+                android:layout_gravity="center"
+                android:id="@+id/txtmadonhang"
+                android:layout_margin="8dp"
+                android:text="Mã Đơn Hàng"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"></TextView>
+            <TextView
+                android:textColor="#9C27B0"
+                android:layout_gravity="center"
+                android:id="@+id/txtmasp1"
+                android:text="Mã Sản phẩm"
+                android:layout_margin="8dp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"></TextView>
+            <TextView
+                android:textColor="#9C27B0"
+                android:layout_gravity="center"
+                android:id="@+id/txtten"
+                android:text="Ten sản phẩm"
+                android:layout_margin="8dp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"></TextView>
+            <TextView
+                android:textColor="#9C27B0"
+                android:layout_gravity="center"
+                android:id="@+id/txtgia"
+                android:layout_margin="8dp"
+                android:text="Giá"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"></TextView>
+            <TextView
+                android:textColor="#9C27B0"
+                android:layout_gravity="center"
+                android:id="@+id/txtsoluong"
+                android:text="Số lượng"
+                android:layout_margin="8dp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"></TextView>
+            <TextView
+                android:textColor="#9C27B0"
+                android:layout_gravity="center"
+                android:id="@+id/txtngaydathang"
+                android:layout_margin="8dp"
+                android:text="Ngày đặt hàng"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"></TextView>
+        </LinearLayout>
+    </LinearLayout>
+
+</androidx.cardview.widget.CardView>
+</LinearLayout>

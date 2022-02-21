@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Doan/app/src/main/res/drawable/boder.xml" value="0.1" />
+        <entry key="..\:/Doan/app/src/main/res/drawable/ic_baseline_search_24.xml" value="0.20185185185185187" />
+        <entry key="..\:/Doan/app/src/main/res/drawable/spinner.xml" value="0.2203125" />
+        <entry key="..\:/Doan/app/src/main/res/drawable/vien.xml" value="0.20185185185185187" />
+        <entry key="..\:/Doan/app/src/main/res/layout/activity_cart.xml" value="0.20416666666666666" />
+        <entry key="..\:/Doan/app/src/main/res/layout/activity_chitietsanpham.xml" value="0.20416666666666666" />
+        <entry key="..\:/Doan/app/src/main/res/layout/activity_dangki.xml" value="0.16944444444444445" />
+        <entry key="..\:/Doan/app/src/main/res/layout/activity_dienthoai.xml" value="0.20416666666666666" />
+        <entry key="..\:/Doan/app/src/main/res/layout/activity_giohang.xml" value="0.19010416666666666" />
+        <entry key="..\:/Doan/app/src/main/res/layout/activity_laptop.xml" value="0.19010416666666666" />
+        <entry key="..\:/Doan/app/src/main/res/layout/activity_lienhe.xml" value="0.1" />
+        <entry key="..\:/Doan/app/src/main/res/layout/activity_login.xml" value="0.16944444444444445" />
+        <entry key="..\:/Doan/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Doan/app/src/main/res/layout/activity_sreach.xml" value="0.1" />
+        <entry key="..\:/Doan/app/src/main/res/layout/activity_thongke.xml" value="0.19907407407407407" />
+        <entry key="..\:/Doan/app/src/main/res/layout/activity_thongke2.xml" value="0.20416666666666666" />
+        <entry key="..\:/Doan/app/src/main/res/layout/activity_thongtin.xml" value="0.1" />
+        <entry key="..\:/Doan/app/src/main/res/layout/activity_thongtinnguoidung.xml" value="0.19010416666666666" />
+        <entry key="..\:/Doan/app/src/main/res/layout/activity_user_information.xml" value="0.16944444444444445" />
+        <entry key="..\:/Doan/app/src/main/res/layout/dong_cart.xml" value="0.20416666666666666" />
+        <entry key="..\:/Doan/app/src/main/res/layout/dong_dienthoai.xml" value="0.1" />
+        <entry key="..\:/Doan/app/src/main/res/layout/dong_laptop.xml" value="0.20416666666666666" />
+        <entry key="..\:/Doan/app/src/main/res/layout/dong_listview_loaisp.xml" value="0.10648148148148148" />
+        <entry key="..\:/Doan/app/src/main/res/layout/dong_sanphammoinhat.xml" value="0.1" />
+        <entry key="..\:/Doan/app/src/main/res/layout/dong_thongke.xml" value="0.2" />
+        <entry key="..\:/Doan/app/src/main/res/layout/progessbar.xml" value="0.20416666666666666" />
+        <entry key="..\:/Doan/app/src/main/res/menu/menu.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
